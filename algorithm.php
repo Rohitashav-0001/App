@@ -18,7 +18,7 @@
     <title>App | Home</title>
   </head>
   <body>
-<<<<<<< HEAD
+
       <!-- Brand -->
       <nav class="navbar navbar-expand-md bg-dark navbar-dark">
         <a class="navbar-brand" href="index.php">App</a>
@@ -45,11 +45,11 @@
 
 
           work inside this div.....
-      
-      
-      
+
+
+
       </div>
-=======
+
       <?php include('includes/navigation.php') ?>
     <div class="container-fluid">
         make algorithms app here code everything inside this page we'll create team page leter
@@ -57,6 +57,6 @@
 
         this is mian file for algorithms app do everthing inside this file
     </div>
->>>>>>> dc6fa93d3ff38aece09e153e03649c86159f6a1c
+
   </body>
 </html>
